@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ishan941
-- 👀 I’m interested in Flutter, React, Node and NestJs
+- 👀 I’m interested in Flutter, React,Next, Node and NestJs
+- ✨Interested in building and developing MERN projects
 - 🌱 I’m currently learning NodeJs
 - 📫 How to reach me Ishan Shrestha on facebook and Instagram
 
