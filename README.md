@@ -34,16 +34,6 @@
 - ☁️ **AWS** | **Firebase**
 
 ---
-
-## 📚 What I'm Working On
-
-- Developing a **MERN stack** project for managing user data with advanced authentication features.
-- Integrating **Flutter** with backend APIs and exploring mobile app performance improvements.
-- Building a **Spring Boot** microservices architecture to handle enterprise-level applications.
-- Exploring **Node.js** frameworks like **NestJS** for building scalable, maintainable back-end services.
-
----
-
 ## 📬 How to Reach Me
 
 You can connect with me on:
@@ -72,7 +62,7 @@ I’m a lifelong learner and currently exploring:
 
 ## 🎯 My Goals
 
-- 🔝 Build a **portfolio** of impressive **MERN** and **Flutter** projects.
+- 🔝 Build a **portfolio** of impressive **Flutter** projects.
 - 💡 Contribute to **open-source** and collaborate with other developers.
 - 🚀 Learn **cloud computing** and deploy projects on **AWS**.
 
