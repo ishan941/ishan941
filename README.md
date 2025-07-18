@@ -45,3 +45,6 @@
 <p align="left">
   <a href="https://medium.com/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" alt="Medium" width="40" height="40"/></a>
 </p>
+
+🌐 Socials
+<p align="left"> <a href="https://www.facebook.com/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" alt="Facebook" width="40" height="40"/></a> <a href="https://www.instagram.com/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40"/></a> <a href="https://www.linkedin.com/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" width="40" height="40"/></a> </p>
