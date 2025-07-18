@@ -2,7 +2,6 @@
 ### 🛠 Tech Stack
 
 #### 🧑‍💻 Languages & Frameworks
-
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a>
@@ -17,7 +16,6 @@
 </p>
 
 #### 🗃️ Databases
-
 <p align="left">
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
@@ -27,7 +25,6 @@
 </p>
 
 #### ⚙️ DevOps & Cloud
-
 <p align="left">
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
   <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/></a>
@@ -46,7 +43,5 @@
   <a href="https://www.instagram.com/ishanshrestha941/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40"/>
 </a> 
   <a href="https://www.linkedin.com/in/ishan941/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" width="40" height="40"/></a> 
-<p align="left">
   <a href="https://medium.com/@ishan941" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" alt="Medium" width="40" height="40"/></a>
-</p>
 </p>
