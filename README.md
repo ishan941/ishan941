@@ -29,7 +29,9 @@
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
   <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/></a>
   <a href="https://www.jenkins.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/></a>
-  <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank"><img src="https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.svg" alt="ArgoCD" width="40" height="40"/></a>
+<a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank">
+  <img src="https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.svg" alt="ArgoCD" width="40" height="40"/>
+</a>
   <a href="https://github.com/ishan941" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
   <a href="https://gitlab.com/ishan941" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/></a>
   <a href="https://www.terraform.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/></a>
