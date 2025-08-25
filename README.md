@@ -38,7 +38,7 @@
   <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/sonarqube-1-1175224.png" alt="SonarQube" width="40" height="40"/></a>
   <a href="https://www.ansible.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/></a>
   <a href="https://aws.amazon.com/ec2/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" 
+  <img src="https://flexion.us/wp-content/uploads/AWS_logo_RGB_REV.png" 
        alt="AWS EC2" width="40" height="40"/>
 </a>
 
